@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../../xampp/htdocs/Trabalho-oop-e-mcv/model"
+		},
+		{
+			"path": "../../../../../xampp/htdocs/Trabalho-oop-e-mcv/view"
+		},
+		{
+			"path": "../../../../../xampp/htdocs/Trabalho-oop-e-mcv/controller"
+		}
+	],
+	"settings": {}
+}
