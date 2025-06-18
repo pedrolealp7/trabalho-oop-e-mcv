@@ -14,4 +14,5 @@ class Cachorro extends Animal {
 $cao = new Cachorro();
 echo $cao->falar(); // Latido
 
+
 ?>
